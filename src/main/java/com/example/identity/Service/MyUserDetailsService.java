@@ -1,6 +1,6 @@
 package com.example.identity.Service;
 
-import com.example.identity.MyUserDetails;
+import com.example.identity.entities.MyUserDetails;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

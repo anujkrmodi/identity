@@ -1,4 +1,4 @@
-package com.example.identity;
+package com.example.identity.entities;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
